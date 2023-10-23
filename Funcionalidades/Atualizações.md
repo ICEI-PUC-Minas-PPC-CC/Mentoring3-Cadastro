@@ -1,4 +1,8 @@
 # Atualizações de Funcionalidades
 
-####AAtualização = Versão 1.0
+#### Atualização = Versão 1.0
+
+## Funcionalidades:
+
+  A aplicaçã a ser desenvolvida contará com:
 
