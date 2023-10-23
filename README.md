@@ -40,4 +40,11 @@ Professor Msc. Harrison Herman Silva
 
   A tela 3 também terá a logo da PUC Minas no topo e logo abaixo será possivel uma visualização do mapa com os locais cadastrados na "Tela 2", podendo visualizar direto no mapa onde é o endereço cadastrado e referente a de qual pessoa se trata, o usuário também terá a opção de voltar a "Tela de cadastros" (Tela 2) ou "Voltar a tela inicial" (Tela 1).
 
-  
+## 3. Modelo Conceitual do Banco de Dados
+
+  O Banco de Dados será simples tendo a entidade Cadastro, referente ao cadastro de pessoas para os agentes de saúde visualizarem e uma entidade agente, que será o agente de saúde que cadastrou e está se utlizando da aplicação.
+  A entidade Cadastro, terá como principais atributos seu Nome, Endereço e seu CPF como "ID" e a entidade "Agente" terá como atributos "Nome" para saber qual agente de saúde está cadastrando e atualizando as informações.
+
+  <img src="img/Diagrama_BD.png">
+
+  obs: Este modelo é apenas um protótipo, será atualizado e melhorado a medida que o desenvolvimento se avançar.
