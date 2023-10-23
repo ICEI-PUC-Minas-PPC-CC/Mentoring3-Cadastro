@@ -24,3 +24,20 @@ Professor Msc. Harrison Herman Silva
 ### 2.1 Aplicação
 
 <img src="img/Device Frames (Community).png">
+
+  A ideia central da aplicação se baseia no protótipo acima, sendo incialmente proposto três telas, sendo elas uma tela inicial, uma tela de cadastros e atualizações com endereços e uma tela com a visualização do mapa.
+
+#### 2.1.1 Tela 1
+
+  A tela um deverá conter uma pré-visualização do mapa geral para que o usuário possa visualizar de acordo com o cadastro no banco de dados interno da aplicação, tendo no banco informações de Nome das Pessoas e seus respectivos endereços, se o usuário clicar no mapa ele será enviado para a "Tela 3"; Abaixo do mapa o usuário terá uma opção de visualizar o cadastro registrado no sistema, podendo ele apenas visualizar o conteúdo ou editar as informações, se clicar na funcionalidade ele será enviado para a "Tela 2" e logo abaixo da primeira Tela terá a logo da Instituição PUC Minas.
+
+#### 2.1.2 Tela 2
+
+  A tela 2 contará com uma logo da Universidade PUC Minas em seu topo, e logo abaixo em formato de tabela uma visualização de todo o banco de dados com o cadastro de pessoas para que o agente de saúde possa visualizar, se clicar em cima será possível editar as informações.
+  O banco de dados terá como característica sua separação em 2 colunas podendo ter quantas linhas necessárias, sendo uma coluna para o Nome da pessoa e outra coluna com o endereço da pessoa, cada linha corresponderá com um cadastro exclusivo e se o usuário clicar em cima do nome da pessoa, irá editar o nome, se clicar no endereço será possível editar o endereço referente a pessoa cadastrada em questão, o usuário também terá as opções de "Salvar" e "Voltar para o início" que o enviará para a "Tela 1" e ua opção de "Visualizar no mapa" que o enviará para a "Tela 3".
+
+#### 2.1.3 Tela 3
+
+  A tela 3 também terá a logo da PUC Minas no topo e logo abaixo será possivel uma visualização do mapa com os locais cadastrados na "Tela 2", podendo visualizar direto no mapa onde é o endereço cadastrado e referente a de qual pessoa se trata, o usuário também terá a opção de voltar a "Tela de cadastros" (Tela 2) ou "Voltar a tela inicial" (Tela 1).
+
+  
